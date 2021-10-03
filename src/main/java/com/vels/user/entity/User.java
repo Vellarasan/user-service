@@ -21,6 +21,6 @@ public class User {
     private Long id;
     private String firstName;
     private String lastName;
-    private Date Dob;
+    private Date dob;
     private Long departmentId;
 }
